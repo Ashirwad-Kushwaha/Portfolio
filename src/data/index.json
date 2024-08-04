@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Crafts visually engaging and interactive user interfaces using HTML, CSS, JavaScript and frameworks like React Js."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in creating robust and scalable server-side applications with Node.js and Express, enabling efficient data handling and API integration."
+    },
+    {
+      "id": "3",
+      "src": "./img/android.webp",
+      "title": "Android Development",
+      "description": "Experienced in designing and building high-quality mobile applications for Android devices using Kotlin, along with the Android SDK, to deliver user-friendly and performant apps."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "CloudHome",
+      "description": "Developed CloudHome-Your_Own_Drive, using the MERN stack, featuring user authentication via OTP and secure password handling with bcrypt and JWT. Users can manage files and folders, perform CRUD operations, and share links. The app ensures a responsive and efficient experience.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Hospitals Around You",
+      "description": "Developed a hospital management system using the MERN stack, enabling user sign-up, login, and secure data storage with bcrypt and JWT. The application allows users to add, search, view, and perform CRUD operations on hospitals, leveraging the full capabilities of the MERN stack to create a responsive, dynamic, and scalable web application.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
