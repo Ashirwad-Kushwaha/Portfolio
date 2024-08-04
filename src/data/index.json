@@ -25,21 +25,24 @@
       "src": "./img/placeholder-image.png",
       "title": "CloudHome",
       "description": "Developed CloudHome-Your_Own_Drive, using the MERN stack, featuring user authentication via OTP and secure password handling with bcrypt and JWT. Users can manage files and folders, perform CRUD operations, and share links. The app ensures a responsive and efficient experience.",
-      "link": "View In Github"
+      "link": "View the project",
+      "live_link": "https://cloud-home-seven.vercel.app/"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Hospitals Around You",
       "description": "Developed a hospital management system using the MERN stack, enabling user sign-up, login, and secure data storage with bcrypt and JWT. The application allows users to add, search, view, and perform CRUD operations on hospitals, leveraging the full capabilities of the MERN stack to create a responsive, dynamic, and scalable web application.",
-      "link": "View In Github"
+      "link": "View the project",
+      "live_link": "https://hospitals-around-you.vercel.app/"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Easy Rentn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "View the project",
+      "live_link": "https://cloud-home-seven.vercel.app/"
     }
   ]
 }
