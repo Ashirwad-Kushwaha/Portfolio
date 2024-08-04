@@ -10,7 +10,9 @@ export default function HeroSection() {
             Developer
           </h1>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <a href="https://drive.google.com/file/d/1Fjy9rRRf9qZgUvKZxd4uSc9BGxIWv4-Z/view?usp=drive_link" download target="_blank">
+        <button className="btn btn-primary">CV/Resume</button>
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/about-me.png" alt="Hero Section" />

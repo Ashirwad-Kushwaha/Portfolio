@@ -38,9 +38,9 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/placeholder-image-2.webp",
+      "title": "Chit-Chat",
+      "description": "Developed a chat application using the MERN stack, implementing JWT authentication for secure user login and data storage. The app provides real-time messaging functionality, leveraging MongoDB, Express.js, React, and Node.js to create a responsive and dynamic user experience.",
       "link": "View the project",
       "live_link": "https://cloud-home-seven.vercel.app/"
     }

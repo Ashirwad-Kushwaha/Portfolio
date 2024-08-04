@@ -69,7 +69,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/ashirwad.kushwaha.1/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -90,7 +90,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/ashirwad_kushwaha/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -113,7 +113,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://x.com/Ashirwadkushwa4"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -134,7 +134,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/ashirwad-kushwaha-515937221/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
